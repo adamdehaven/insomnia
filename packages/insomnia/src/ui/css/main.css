@@ -3468,4 +3468,6 @@ input.editable {
 
 .pane-two {
   z-index: 0;
+  overflow: auto!important;
+  background-color: white;
 }
